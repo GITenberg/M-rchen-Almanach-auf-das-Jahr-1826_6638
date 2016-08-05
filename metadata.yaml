@@ -1,0 +1,32 @@
+_repo: M-rchen-Almanach-auf-das-Jahr-1826_6638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6638'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: "Märchen als Almanach\r\nDie Karawane (Rahmenerzählung)\r\nDie Geschichte\
+  \ vom Kalif Storch\r\nDie Geschichte von dem Gespensterschiff\r\nDie Geschichte\
+  \ von der abgehauenen Hand\r\nDie Errettung Fatmes\r\nDie Geschichte von dem kleinen\
+  \ Muck\r\nDas Märchen vom falschen Prinzen"
+title: Märchen-Almanach auf das Jahr 1826
+url: http://www.gutenberg.org/ebooks/6638
